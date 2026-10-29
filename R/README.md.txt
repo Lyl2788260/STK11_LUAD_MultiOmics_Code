@@ -1,0 +1,1 @@
+This repository contains the R scripts used for the multi-omics analysis of STK11-mutant LUAD. Scripts include differential expression, KSEA, and survival analysis.
